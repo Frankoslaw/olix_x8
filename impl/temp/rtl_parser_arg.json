@@ -1,0 +1,20 @@
+{
+ "Files" : [
+  {
+   "Path" : "C:/Users/frano/Documents/programming/fpga/projects/olix-cpu-modded/src/cpu.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/frano/Documents/programming/fpga/projects/olix-cpu-modded/src/alu.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/frano/Documents/programming/fpga/projects/olix-cpu-modded/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

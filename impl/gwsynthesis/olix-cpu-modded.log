@@ -1,0 +1,9 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\frano\Documents\programming\fpga\projects\olix-cpu-modded\src\cpu.v'
+Analyzing Verilog file 'C:\Users\frano\Documents\programming\fpga\projects\olix-cpu-modded\src\alu.v'
+Undeclared symbol 'ALU_Out', assumed default net type 'wire'("C:\Users\frano\Documents\programming\fpga\projects\olix-cpu-modded\src\alu.v":8)
+ERROR (EX3872) : 'ALU_Sel' is not declared("C:\Users\frano\Documents\programming\fpga\projects\olix-cpu-modded\src\alu.v":13)
+ERROR (EX3928) : Module 'alu' is ignored due to previous errors("C:\Users\frano\Documents\programming\fpga\projects\olix-cpu-modded\src\alu.v":49)
+Verilog file 'C:\Users\frano\Documents\programming\fpga\projects\olix-cpu-modded\src\alu.v' ignored due to errors
+GowinSynthesis finish
